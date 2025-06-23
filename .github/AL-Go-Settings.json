@@ -3,5 +3,5 @@
   "type": "PTE",
   "templateUrl": "https://github.com/lktraser/AL-Go-PTE@main",
   "gitHubRunnerShell": "pwsh",
-  "githubRunner": "self-hosted, Windows"
+  "githubRunner": "self-hosted"
 }
