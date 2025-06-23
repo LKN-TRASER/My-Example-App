@@ -2,7 +2,7 @@
   "id": "0873237a-f065-4355-b5c6-fee4e528db47",
   "name": "My App",
   "publisher": "TRASER Software GmbH",
-  "version": "1.0.0.0",
+  "version": "26.0.0.0",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -12,8 +12,8 @@
   "logo": "",
   "dependencies": [],
   "screenshots": [],
-  "platform": "1.0.0.0",
-  "application": "22.0.0.0",
+  "platform": "26.0.0.0",
+  "application": "26.0.0.0",
   "idRanges": [
     {
       "from": 70000,

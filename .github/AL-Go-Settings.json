@@ -2,6 +2,6 @@
   "$schema": "https://raw.githubusercontent.com/lktraser/AL-Go-Actions/main/settings.schema.json",
   "type": "PTE",
   "templateUrl": "https://github.com/lktraser/AL-Go-PTE@main",
-  "gitHubRunner": "ubuntu-latest",
-  "gitHubRunnerShell": "pwsh"
+  "gitHubRunnerShell": "pwsh",
+  "githubRunner": "windows-latest"
 }
